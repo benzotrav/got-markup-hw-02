@@ -122,7 +122,7 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
   font-style: normal;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 14px;
 }
 
@@ -180,7 +180,7 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
   font-style: normal;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 16px;
 }
 
@@ -198,7 +198,7 @@ body {
   letter-spacing: 0.03em;
   color: #ffffff;
   font-style: normal;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 14px;
 }
 .footer-link {
@@ -207,7 +207,7 @@ body {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   font-style: normal;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 14px;
 }
 
@@ -263,6 +263,6 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
   font-style: normal;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 16px;
 }
