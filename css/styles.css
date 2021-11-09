@@ -46,6 +46,7 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #212121;
+  font-weight: 700;
 }
 .header-link:hover {
   color: #2196f3;
