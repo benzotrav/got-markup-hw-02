@@ -19,6 +19,8 @@ body {
   font-family: Raleway;
   font-weight: 700;
   line-height: 1.19;
+  font-style: normal;
+  font-size: 26px;
   letter-spacing: 0.03em;
   color: #2196f3;
 }
@@ -26,6 +28,8 @@ body {
   font-family: Raleway;
   font-weight: 700;
   line-height: 1.19;
+  font-style: normal;
+  font-size: 26px;
   letter-spacing: 0.03em;
   color: #000000;
 }
@@ -33,6 +37,8 @@ body {
   font-weight: 700;
   line-height: 1.19;
   letter-spacing: 0.03em;
+  font-style: normal;
+  font-size: 26px;
   color: #ffffff;
 }
 /* Хедер */
@@ -46,7 +52,9 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #212121;
-  font-weight: 700;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
 }
 .header-link:hover {
   color: #2196f3;
@@ -55,6 +63,9 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
+  font-weight: 500;
+  font-size: 14px;
+  font-style: normal;
 }
 .header-link2:hover {
   line-height: 1.14;
@@ -72,6 +83,10 @@ body {
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: #ffffff;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  text-align: center;
 }
 .motto-btn {
   font-weight: 700;
@@ -84,6 +99,8 @@ body {
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  font-style: normal;
+  font-size: 16px;
 }
 
 /* Гарантии */
@@ -97,11 +114,16 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
+  font-style: normal;
+  font-size: 14px;
 }
 .description-p {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 14px;
 }
 
 /* Чем мы занимаемся */
@@ -113,6 +135,8 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+  font-style: normal;
+  font-size: 36px;
 }
 .photo-list {
 }
@@ -128,6 +152,8 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+  font-style: normal;
+  font-size: 36px;
 }
 .team-list {
 }
@@ -144,12 +170,18 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
 }
 .team-p {
   line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 16px;
 }
 
 /* Футер */
@@ -165,12 +197,18 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 14px;
 }
 .footer-link {
   font-style: normal;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
+  font-style: normal;
+  font-weight: 100;
+  font-size: 14px;
 }
 
 /* PORTFOLIO-HTML */
@@ -185,6 +223,9 @@ body {
   color: #212121;
   background: #f5f4fa;
   border-radius: 4px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
 }
 .nav-btn:hover {
   background: #2196f3;
@@ -212,9 +253,15 @@ body {
   line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
 }
 .maincontant-p {
   line-height: 1.88;
   letter-spacing: 0.03em;
   color: #757575;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 16px;
 }
