@@ -1,7 +1,7 @@
 /* ОБЩИЕ КЛАССЫ */
 body {
   background: #e5e5e5;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
 }
 .btn {
   cursor: pointer;
